@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Film component > matches the snapshot 1`] = `
+<DocumentFragment>
+   A New HopeEpisode 4
+</DocumentFragment>
+`;

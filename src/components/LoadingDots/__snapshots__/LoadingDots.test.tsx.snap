@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`LoadingDots > matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-KXCwU jZTKhe"
+    data-testid="loading-dots"
+  >
+    <span>
+      .
+    </span>
+    <span>
+      .
+    </span>
+    <span>
+      .
+    </span>
+  </div>
+</div>
+`;

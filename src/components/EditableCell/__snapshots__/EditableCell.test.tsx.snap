@@ -1,0 +1,11 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`EditableCell > matches the snapshot 1`] = `
+<div>
+  <td
+    class="MuiTableCell-root MuiTableCell-sizeMedium css-1cutd21-MuiTableCell-root"
+  >
+    172
+  </td>
+</div>
+`;

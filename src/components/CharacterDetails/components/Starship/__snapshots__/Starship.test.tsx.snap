@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Starship > matches the snapshot 1`] = `
+<DocumentFragment>
+  X-wingT-65 X-wing
+</DocumentFragment>
+`;

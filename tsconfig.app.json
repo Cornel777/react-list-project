@@ -5,10 +5,14 @@
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "module": "ESNext",
+    // "module": "ES2020",
     "skipLibCheck": true,
+    "types": ["cypress", "node"],
+    "esModuleInterop": true,
 
     /* Bundler mode */
     "moduleResolution": "bundler",
+    // "moduleResolution": "Node",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
@@ -22,5 +26,6 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["src"]
+  "include": ["src", "cypress/**/*.ts", "cypress/**/*.tsx", "cypress.config.js"],
+  "exclude": ["node_modules"]
 }

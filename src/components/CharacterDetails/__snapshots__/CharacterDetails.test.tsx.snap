@@ -1,0 +1,206 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CharacterDetails > matches snapshot 1`] = `
+<div>
+  <div
+    class="sc-gaZyOd ghTcZX"
+  >
+    <div
+      class="sc-eaUbBy izwuGO"
+    >
+      <button
+        aria-label="Go Back"
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-colorPrimary css-1uent87-MuiButtonBase-root-MuiButton-root"
+        data-testid="character-back-button"
+        id=":r0:"
+        tabindex="0"
+        type="button"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+          data-testid="ArrowBackIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"
+          />
+        </svg>
+      </button>
+      <h3
+        class="MuiTypography-root MuiTypography-h3 css-13msox4-MuiTypography-root"
+      >
+        Luke Skywalker
+      </h3>
+      <button
+        aria-label="toggle favorites button"
+        class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeLarge MuiButton-textSizeLarge MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeLarge MuiButton-textSizeLarge MuiButton-colorPrimary css-1cg7qmj-MuiButtonBase-root-MuiButton-root"
+        id=":r1:"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-icon MuiButton-startIcon MuiButton-iconSizeLarge css-hev6se-MuiButton-startIcon"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+            data-testid="FavoriteIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 21.35-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54z"
+            />
+          </svg>
+        </span>
+      </button>
+    </div>
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-y2ff7i-MuiPaper-root-MuiTableContainer-root"
+      style="--Paper-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12); max-width: 400px;"
+    >
+      <table
+        aria-label="Character traits table"
+        class="MuiTable-root css-1xwxv7r-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-1a7iywq-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-17e8nb1-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-hktbzt-MuiTableCell-root"
+              scope="col"
+            >
+              Character trait
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-hktbzt-MuiTableCell-root"
+              scope="col"
+            >
+              Value
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-gmh7jj-MuiTableBody-root"
+        >
+          <tr
+            class="MuiTableRow-root css-17e8nb1-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            >
+              Hair colour
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            />
+          </tr>
+          <tr
+            class="MuiTableRow-root css-17e8nb1-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            >
+              Eye colour
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            />
+          </tr>
+          <tr
+            class="MuiTableRow-root css-17e8nb1-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            >
+              Gender
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            >
+              male
+            </td>
+          </tr>
+          <tr
+            class="MuiTableRow-root css-17e8nb1-MuiTableRow-root"
+          >
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            >
+              Homeworld
+            </td>
+            <td
+              class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium css-1l8b5g1-MuiTableCell-root"
+            >
+              Luke Skywalker
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <br
+      class="sc-gyycJP"
+    />
+    <h5
+      class="MuiTypography-root MuiTypography-h5 css-16xl4zq-MuiTypography-root"
+    >
+      Films
+    </h5>
+    <br
+      class="sc-gyycJP"
+    />
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiTableContainer-root css-y2ff7i-MuiPaper-root-MuiTableContainer-root"
+      style="--Paper-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12); max-width: 400px;"
+    >
+      <table
+        aria-label="Films table"
+        class="MuiTable-root css-1xwxv7r-MuiTable-root"
+      >
+        <thead
+          class="MuiTableHead-root css-1a7iywq-MuiTableHead-root"
+        >
+          <tr
+            class="MuiTableRow-root MuiTableRow-head css-17e8nb1-MuiTableRow-root"
+          >
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-hktbzt-MuiTableCell-root"
+              scope="col"
+            >
+              Film name
+            </th>
+            <th
+              class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium css-hktbzt-MuiTableCell-root"
+              scope="col"
+            >
+              Episode no.
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="MuiTableBody-root css-gmh7jj-MuiTableBody-root"
+        />
+      </table>
+    </div>
+    <br
+      class="sc-gyycJP"
+    />
+    <h5
+      class="MuiTypography-root MuiTypography-h5 css-16xl4zq-MuiTypography-root"
+    >
+      Starships
+    </h5>
+    <br
+      class="sc-gyycJP"
+    />
+    <p>
+      No starships flown
+    </p>
+  </div>
+</div>
+`;

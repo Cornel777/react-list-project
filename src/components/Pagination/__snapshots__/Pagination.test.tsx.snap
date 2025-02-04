@@ -1,0 +1,54 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Pagination > should render the pagination component 1`] = `
+<div>
+  <div
+    class="sc-gyycJP"
+  >
+    Current Page: 
+    1
+    /
+    3
+  </div>
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary Mui-disabled MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-1l0eyhc-MuiButtonBase-root-MuiButton-root"
+    disabled=""
+    id=":r0:"
+    tabindex="-1"
+    type="button"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+      data-testid="ArrowBackIosIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M11.67 3.87 9.9 2.1 0 12l9.9 9.9 1.77-1.77L3.54 12z"
+      />
+    </svg>
+     Previous Page
+  </button>
+   
+  <button
+    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary css-1l0eyhc-MuiButtonBase-root-MuiButton-root"
+    id=":r1:"
+    tabindex="0"
+    type="button"
+  >
+    Next Page 
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+      data-testid="ArrowForwardIosIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M6.23 20.23 8 22l10-10L8 2 6.23 3.77 14.46 12z"
+      />
+    </svg>
+  </button>
+</div>
+`;
